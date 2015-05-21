@@ -1,0 +1,13 @@
+C:\Users\a.k.todorov\Desktop\domain-driven-design-fundamentals\6-domain-driven-design-fundamentals-m6-exercise-files\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe.config
+S:\Learn\Presentations\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe.config
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe.config
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.pdb
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\nunit.framework.dll
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\StructureMap.dll
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\nunit.framework.xml
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\StructureMap.pdb
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\bin\Debug\StructureMap.xml
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\obj\Debug\DomainEventsConsole.csprojResolveAssemblyReference.cache
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\obj\Debug\DomainEventsConsole.exe
+C:\Users\m.tsekov\Desktop\DDD-Aleks\DomainEventsConsole\DomainEventsConsole\obj\Debug\DomainEventsConsole.pdb
